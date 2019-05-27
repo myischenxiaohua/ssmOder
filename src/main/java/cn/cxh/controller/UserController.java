@@ -397,7 +397,7 @@ public class UserController extends BaseController {
     }
 
     public  String gj(){
-        return "高俊";
+        return "全班最帅";
     }
 
 }
