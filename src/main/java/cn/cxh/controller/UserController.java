@@ -384,6 +384,10 @@ public class UserController extends BaseController {
         return "admin/addUser";
     }
 
+    public String cxh(){
+        return "陈晓华";
+    }
+
     public String yhl(){
         return "叶和柳";
     }
