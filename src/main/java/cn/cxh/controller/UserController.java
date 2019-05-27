@@ -400,7 +400,7 @@ public class UserController extends BaseController {
     public String xj(){
         return "高俊傻逼";
     }
-
+    //俊哥最帅
     public  String gj(){
         return "高俊你是。。。。。ju";
     }
