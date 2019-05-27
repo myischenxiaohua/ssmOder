@@ -390,7 +390,7 @@ public class UserController extends BaseController {
     }
 //   叶和柳提交的
     public String yhl(){
-        return "叶和柳";
+        return "叶和柳提交的更改后";
     }
 
     public void zl(){
@@ -403,6 +403,10 @@ public class UserController extends BaseController {
 
     public  String gj(){
         return "高俊";
+    }
+
+    public String yuki(){
+        return "同步跟新";
     }
 
 }
