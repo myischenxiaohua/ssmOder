@@ -376,7 +376,7 @@ public class UserController extends BaseController {
 
        return JSON.toJSONString(user);
     }
-//    视图
+//    视图12341234
     @RequestMapping("vie/{id}")
     public Object vie(HttpSession session,@PathVariable int id){
         int userId= ((User)session.getAttribute("loginUser")) .getId();
