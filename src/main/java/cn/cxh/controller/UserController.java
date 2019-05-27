@@ -392,4 +392,8 @@ public class UserController extends BaseController {
         System.out.println("张柳");
     }
 
+    public String xj(){
+        return "徐江";
+    }
+
 }
