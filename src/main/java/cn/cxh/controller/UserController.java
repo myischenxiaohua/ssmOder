@@ -384,12 +384,24 @@ public class UserController extends BaseController {
         return "admin/addUser";
     }
 
+    public String cxh(){
+        return "陈晓华";
+    }
+
     public String yhl(){
         return "叶和柳";
     }
 
     public void zl(){
         System.out.println("张柳更改后");
+    }
+
+    public String xj(){
+        return "徐江";
+    }
+
+    public  String gj(){
+        return "高俊";
     }
 
 }
