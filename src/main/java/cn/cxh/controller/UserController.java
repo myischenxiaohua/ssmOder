@@ -396,4 +396,7 @@ public class UserController extends BaseController {
         return "徐江";
     }
 
+    public String gege(){
+        return "徐江";
+    }
 }
