@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="742c39f0-6caa-4b5c-90be-cb6460d21afa" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/cxh/controller/UserController.java" afterPath="$PROJECT_DIR$/src/main/java/cn/cxh/controller/UserController.java" />
+=======
+    <list default="true" id="65ed1fce-9170-444b-953b-72c8cd97d9da" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> Stashed changes
     </list>
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +21,7 @@
       <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/cxh/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="170">
               <caret line="377" column="5" lean-forward="true" selection-start-line="377" selection-start-column="5" selection-end-line="377" selection-end-column="5" />
               <folding>
@@ -29,6 +35,13 @@
                 <element signature="e#12239#12240#0" expanded="true" />
                 <element signature="e#12265#12266#0" expanded="true" />
                 <element signature="e#12292#12293#0" expanded="true" />
+=======
+            <state relative-caret-position="311">
+              <caret line="384" column="5" lean-forward="true" selection-start-line="384" selection-start-column="5" selection-end-line="384" selection-end-column="5" />
+              <folding>
+                <element signature="e#12042#12043#0" expanded="true" />
+                <element signature="e#12070#12071#0" expanded="true" />
+>>>>>>> Stashed changes
               </folding>
             </state>
           </provider>
@@ -37,7 +50,10 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+<<<<<<< Updated upstream
     <option name="UPDATE_TYPE" value="MERGE" />
+=======
+>>>>>>> Stashed changes
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -59,6 +75,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="6" />
+    <option name="y" value="68" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
+  </component>
+>>>>>>> Stashed changes
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -137,6 +162,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< Updated upstream
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
@@ -251,6 +277,12 @@
         <option name="myId" value="SWITCHED" />
       </FILE-GROUP>
     </UpdatedFiles>
+=======
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+>>>>>>> Stashed changes
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -368,8 +400,12 @@
     <option name="totallyTimeSpent" value="537000" />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< Updated upstream
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
+=======
+    <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
+>>>>>>> Stashed changes
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -447,6 +483,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/cxh/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="320">
           <caret line="387" column="21" lean-forward="true" selection-start-line="387" selection-start-column="21" selection-end-line="387" selection-end-column="21" />
           <folding>
@@ -479,12 +516,20 @@
             <element signature="e#12239#12240#0" expanded="true" />
             <element signature="e#12265#12266#0" expanded="true" />
             <element signature="e#12292#12293#0" expanded="true" />
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#12042#12043#0" expanded="true" />
+            <element signature="e#12070#12071#0" expanded="true" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/cxh/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="170">
           <caret line="377" column="5" lean-forward="true" selection-start-line="377" selection-start-column="5" selection-end-line="377" selection-end-column="5" />
           <folding>
@@ -498,6 +543,13 @@
             <element signature="e#12239#12240#0" expanded="true" />
             <element signature="e#12265#12266#0" expanded="true" />
             <element signature="e#12292#12293#0" expanded="true" />
+=======
+        <state relative-caret-position="311">
+          <caret line="384" column="5" lean-forward="true" selection-start-line="384" selection-start-column="5" selection-end-line="384" selection-end-column="5" />
+          <folding>
+            <element signature="e#12042#12043#0" expanded="true" />
+            <element signature="e#12070#12071#0" expanded="true" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
