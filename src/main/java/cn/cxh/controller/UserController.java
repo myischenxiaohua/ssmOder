@@ -398,11 +398,7 @@ public class UserController extends BaseController {
     }
 
     public String xj(){
-        return "徐江";
-    }
-
-    public  String gj(){
-        return "高俊";
+        return "徐江的更新";
     }
 
     public String yuki(){
