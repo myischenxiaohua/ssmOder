@@ -384,19 +384,21 @@ public class UserController extends BaseController {
         return "admin/addUser";
     }
 
+
+    public String cxh(){
+        return "陈晓华";
+    }
+//   叶和柳提交的
     public String yhl(){
         return "叶和柳";
     }
 
     public void zl(){
-        System.out.println("张柳");
+        System.out.println("张柳更改后");
     }
 
     public String xj(){
-        return "徐江";
+        return "徐江的更新";
     }
 
-    public String gege(){
-        return "徐江";
-    }
 }
