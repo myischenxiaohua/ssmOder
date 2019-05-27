@@ -402,7 +402,7 @@ public class UserController extends BaseController {
     }
 
     public  String gj(){
-        return "全班最帅";
+        return "高俊你是。。。。。ju";
     }
 
 }
