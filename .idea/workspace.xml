@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65ed1fce-9170-444b-953b-72c8cd97d9da" name="Default" comment="高俊修改后哦">
+    <list default="true" id="65ed1fce-9170-444b-953b-72c8cd97d9da" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,9 +21,20 @@
       <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/cxh/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="382" column="35" lean-forward="true" selection-start-line="382" selection-start-column="35" selection-end-line="382" selection-end-column="35" />
-              <folding />
+            <state relative-caret-position="74">
+              <caret line="392" column="21" lean-forward="true" selection-start-line="392" selection-start-column="21" selection-end-line="392" selection-end-column="21" />
+              <folding>
+                <element signature="e#12043#12044#0" expanded="true" />
+                <element signature="e#12071#12072#0" expanded="true" />
+                <element signature="e#12108#12109#0" expanded="true" />
+                <element signature="e#12136#12137#0" expanded="true" />
+                <element signature="e#12159#12160#0" expanded="true" />
+                <element signature="e#12202#12203#0" expanded="true" />
+                <element signature="e#12227#12228#0" expanded="true" />
+                <element signature="e#12254#12255#0" expanded="true" />
+                <element signature="e#12280#12281#0" expanded="true" />
+                <element signature="e#12309#12310#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -231,7 +242,7 @@
       <workItem from="1558926811656" duration="185000" />
       <workItem from="1558928858599" duration="854000" />
       <workItem from="1558938745859" duration="149000" />
-      <workItem from="1558938915415" duration="261000" />
+      <workItem from="1558938915415" duration="510000" />
     </task>
     <task id="LOCAL-00001">
       <created>1558938886476</created>
@@ -254,11 +265,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558939033317</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="高俊修改后哦">
+      <created>1558939202721</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558939202721</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1449000" />
+    <option name="totallyTimeSpent" value="1698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -303,7 +321,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="高俊修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="高俊修改" />
+    <MESSAGE value="高俊修改后哦" />
+    <option name="LAST_COMMIT_MESSAGE" value="高俊修改后哦" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -314,7 +333,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#12043#12044#0" expanded="true" />
+            <element signature="e#12071#12072#0" expanded="true" />
+            <element signature="e#12108#12109#0" expanded="true" />
+            <element signature="e#12136#12137#0" expanded="true" />
+            <element signature="e#12159#12160#0" expanded="true" />
+            <element signature="e#12202#12203#0" expanded="true" />
+            <element signature="e#12227#12228#0" expanded="true" />
+            <element signature="e#12254#12255#0" expanded="true" />
+            <element signature="e#12280#12281#0" expanded="true" />
+            <element signature="e#12309#12310#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -322,7 +352,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#12043#12044#0" expanded="true" />
+            <element signature="e#12071#12072#0" expanded="true" />
+            <element signature="e#12108#12109#0" expanded="true" />
+            <element signature="e#12136#12137#0" expanded="true" />
+            <element signature="e#12159#12160#0" expanded="true" />
+            <element signature="e#12202#12203#0" expanded="true" />
+            <element signature="e#12227#12228#0" expanded="true" />
+            <element signature="e#12254#12255#0" expanded="true" />
+            <element signature="e#12280#12281#0" expanded="true" />
+            <element signature="e#12309#12310#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -336,9 +377,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/cxh/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="382" column="35" lean-forward="true" selection-start-line="382" selection-start-column="35" selection-end-line="382" selection-end-column="35" />
-          <folding />
+        <state relative-caret-position="74">
+          <caret line="392" column="21" lean-forward="true" selection-start-line="392" selection-start-column="21" selection-end-line="392" selection-end-column="21" />
+          <folding>
+            <element signature="e#12043#12044#0" expanded="true" />
+            <element signature="e#12071#12072#0" expanded="true" />
+            <element signature="e#12108#12109#0" expanded="true" />
+            <element signature="e#12136#12137#0" expanded="true" />
+            <element signature="e#12159#12160#0" expanded="true" />
+            <element signature="e#12202#12203#0" expanded="true" />
+            <element signature="e#12227#12228#0" expanded="true" />
+            <element signature="e#12254#12255#0" expanded="true" />
+            <element signature="e#12280#12281#0" expanded="true" />
+            <element signature="e#12309#12310#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
