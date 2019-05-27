@@ -1,0 +1,81 @@
+*{margin: 0px;padding: 0px;}
+body{
+    background-image: url("../../static/images/loginBg.jpg");
+    background-repeat: repeat-x;
+}
+.login_box{
+    width: 1000px;
+    background: url("../../static/images/login_bg.jpg") no-repeat;
+    margin: 0 auto;
+}
+
+.login_box header{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.login_box header h1{
+    color: #fff;
+    text-shadow: 2px 2px #000;
+}
+
+.login_box .login_form{
+    width: 388px;
+    height: 284px;
+    margin: 0 auto;
+}
+
+.login_box .login_form form{
+    background: url("../../static/images/formBg.png") no-repeat;
+    width: 320px;
+    height: 140px;
+    padding: 90px 38px 48px 30px;
+}
+
+.login_form .info{
+    color: brown;
+    text-align: center;
+}
+
+.login_form_input{
+    height: 60px;
+}
+.login_form_input label{
+    width: 20%;
+    display: inline-block;
+}
+.login_form_input input{
+    width: 66%;
+    padding: 10px 5px 10px 20px;
+    border: 1px solid rgb(178, 178, 178);
+    border-radius: 3px;
+    box-shadow: 0px 1px 4px 0px rgba(168, 168, 168, 0.6) inset;
+}
+
+.butn{width: 100%;margin-left: 60px;}
+
+.butn input{
+    width: 30%;
+
+    cursor: pointer;
+
+    background: #54a4d7;
+
+    padding: 6px 18px;
+
+    font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
+
+    color: #fff;
+
+    font-size: 18px;
+
+    border: 1px solid #4682be;
+
+    margin-bottom: 10px;
+
+    margin-right: 22px;
+
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+    border-radius: 3px;
+    box-shadow: 0px 1px 4px 4px rgba(0, 0, 0, 0.07) inset, 0px 0px 0px 3px rgb(254, 254, 254), 0px 5px 3px 3px rgb(210, 210, 210);
+}

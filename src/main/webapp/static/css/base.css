@@ -1,0 +1,232 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-size: 12px;
+    background: #4287c2;
+}
+
+ul{list-style: none}
+a{text-decoration: none}
+
+.main{
+    border-top: 1px solid #c2ccd5;
+    display: flex;  /*变为弹性盒模型*/
+    display: -webkit-flex;
+    background: #fff;
+}
+.main .main_left{
+    width: 168px;
+    background: url("../images/leftBg.png") 0 0 repeat-y;
+    margin-right: 10px;
+    height: 520px;
+    min-height: 520px;
+    padding-top: 10px;
+    float: left;
+}
+
+.main .main_left h2{
+    width: 140px;
+    height: 30px;
+    border-radius: 4px;
+    line-height: 30px;
+    text-align: center;
+    color: #fff;
+    background: #60b3e7;
+    margin: 0px auto;
+    box-shadow: 4px 4px rgba(212,212,212,0.7);
+    margin-bottom: 10px;
+}
+
+.main_left span:first-child{
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    background: radial-gradient(#70c2f4,#3a8dc1, #035384, #4696c7,#83d1f5);
+    border-radius: 50%;
+}
+
+.main_left span:last-child{
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    background: radial-gradient(#70c2f4,#3a8dc1, #035384, #4696c7,#83d1f5);
+    border-radius: 50%;
+}
+
+nav .list{
+    margin: 0 20px;
+    font-weight: bold;
+}
+
+nav .list li{
+    height: 40px;
+    line-height: 40px;
+    border-bottom: 1px solid rgba(212,212,212,0.5);
+    padding-left: 40px;
+}
+
+nav .list li:nth-child(1) {
+    background: url("../../static/images/zd.png") 0 center no-repeat;
+}
+nav .list li:nth-child(2) {
+    background: url("../../static/images/gys.png") 0 center no-repeat;
+}
+nav .list li:nth-child(3) {
+    background: url("../../static/images/yh.png") 0 center no-repeat;
+}
+nav .list li:nth-child(4) {
+    background: url("../../static/images/mm.png") 0 center no-repeat;
+}
+nav .list li:nth-child(5) {
+    background: url("../../static/images/tc.png") 0 center no-repeat;
+}
+
+nav .list li:hover{
+    background-color: #acd5f5;
+    border-radius: 4px;
+}
+nav .list li:active, #active{
+    background-color: #92c609;
+    border-radius: 4px;
+}
+
+nav .list li a{color: #0042a8;}
+
+.main_right{width: 85%;float: right}
+.main_right .location{
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid #e6eaf6;
+    border-radius: 8px;
+    background: linear-gradient(to bottom, #fefefe,#ffffff,#f6fafd);
+    color: #4a4a4a;
+    padding-left: 30px;
+}
+.main_right .location strong{
+    background: url("../../static/images/home.png") 0 center no-repeat;
+    display: inline-block;
+    padding-left: 30px;
+}
+.main_right .location span{
+    color: #2179a9;
+    font-weight:  bold;
+}
+
+/*搜索信息栏*/
+.main_right .search{
+    height:50px;
+    line-height:50px;
+    background: #f6fafd;
+    padding-left: 24px;
+    color: #000;
+}
+.main_right .search input[type='text']{
+    width: 200px;
+    height: 30px;
+    outline: none;
+    padding-left: 10px;
+    border: 1px solid #8ab2d5;
+    border-radius: 4px;
+}
+.main_right .search input[type='submit']{
+    margin-left: 20px;
+    width: 100px;
+    padding: 0 20px;
+    height: 30px;
+    border: 1px solid #7ba92c;
+    border-radius: 4px;
+    color: #fff;
+    font-weight: bold;
+    background:#87c212 url("../../static/images/search.png") 10px center no-repeat;
+}
+.main_right .search input[type='submit']:focus{
+    outline: none;
+    background-color: #5d8410;
+}
+.main_right .search a{
+    width: 80px;
+    padding-left:40px;
+    float: right;
+    margin: 10px 60px;
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid #0c89de;
+    border-radius: 4px;
+    color: #fff;
+    font-weight: bold;
+    background:#47acf1 url("../../static/images/tianjia.png") 10px center no-repeat;
+    display: inline-block;
+}
+.main_right .search a:hover,.search a:active{
+    background-color: #0778c5;
+}
+.main_right .search span{
+    margin-left: 10px;
+}
+.main_right .search select{
+    margin: 10px;
+    width: 100px;
+    height: 30px;
+    border-radius: 4px;
+    border: 1px solid #0c89de;
+    outline: none;
+}
+
+.zhezhao{
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+    overflow: hidden;
+}
+
+.remove{
+    display: none;       /* 修改这里可以让删除框消失*/
+    width: 400px;
+    height: 190px;
+    position: absolute;
+    top: 190px;
+    left:500px;
+    background: #fff;
+    border-radius: 4px;
+}
+.removerChid{
+    margin: 4px;
+    border: 1px solid #ccc;
+}
+.removerChid h2{
+    padding-left: 8px;
+    font-size: 14px;
+    line-height: 30px;
+    margin: 4px 8px;
+    border-bottom: 1px solid #99cc33;
+}
+.removeMain{
+    margin-top: 38px;
+    text-align: center;
+    margin-bottom: 30px;
+    border-radius: 4px;
+}
+.removeMain a{
+    padding: 0 20px;
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 4px;
+    border: 1px solid #5e8809;
+    margin-top: 30px;
+    background: #99cc33;
+    color: #fff;
+}
+.removeMain a:hover,.removeMain a:active{
+    background: #679016;
+
+}

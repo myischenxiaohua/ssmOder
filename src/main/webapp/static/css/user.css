@@ -1,0 +1,130 @@
+/*供应商管理页面-->供应商添加页面*/
+.providerAdd {
+    border: 1px solid #9ac70f;
+    padding: 20px;
+    margin: 20px;
+}
+
+.providerAdd form {
+
+}
+
+.providerAdd div {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.providerAdd label {
+    width: 200px;
+    display: inline-block;
+    text-align: right;
+}
+
+.providerAdd input ,.providerAdd select{
+    width: 260px;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 4px;
+    outline: none;
+    padding-left: 10px;
+    border: 1px solid #4987c0;
+    box-shadow: 1px 1px 1px #99afc4;
+}
+
+.providerAdd input:focus,.providerAdd select:focus {
+    border: 1px solid #0e56a8;
+    background: rgba(238, 236, 240, 0.2);
+    -webkit-box-shadow: 0px 1px 4px 0px rgba(168, 168, 168, 0.9) inset;
+    -moz-box-shadow: 0px 1px 4px 0px rgba(168, 168, 168, 0.9) inset;
+    box-shadow: 0px 1px 4px 0px rgba(168, 168, 168, 0.9) inset;
+}
+
+.providerAdd span {
+    margin-left: 20px;
+    color: #faca0d;
+}
+
+/*验证错误*/
+.providerAdd .error span {
+    color: red;
+}
+
+.providerAdd .error input {
+    border: 1px solid red;
+}
+
+/*验证成功*/
+.providerAdd .ok span {
+    color: green;
+}
+
+.providerAdd .ok input {
+    border: 1px solid green;
+}
+
+.providerAddBtn {
+    margin-left: 240px;
+    padding-top: 20px;
+}
+
+.providerAddBtn a ,
+.providerAddBtn input[type='submit'],
+.providerAddBtn input[type='button'] {
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 4px;
+    border: transparent;
+    background: linear-gradient(to bottom, #85c0ec, #6aa7d6, #508dc6, #306fb4, #17559e);
+    color: #fff;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 14px;
+    vertical-align: top;
+}
+
+.providerAddBtn a:active,
+.providerAddBtn a:focus,
+.providerAddBtn a:hover,
+.providerAddBtn input[type='submit']:hover,
+.providerAddBtn input[type='submit']:focus{
+    background: linear-gradient(to bottom, #7aaed4, #578bb4, #406e99, #225792, #0d2d54);
+}
+
+/*表格*/
+.providerTable {
+    width: 100%;
+    border: 1px solid #ccc;
+}
+
+.providerTable tr {
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.providerTable tr:nth-child(odd) {
+    background: #f6f7f9;
+}
+
+.providerTable tr:hover {
+    background: #e9f9ca;
+}
+
+.firstTr {
+    border: 1px solid #d6dfe6;
+    background: linear-gradient(to bottom, #f3f8fc, #ebf4f9, #e3f1fa, #e0f0fd, #d8e9fd);
+}
+
+.firstTr th {
+    border-right: 2px solid rgba(209, 218, 223, 0.4);
+}
+
+.providerTable td a {
+    margin-top: 10px;
+    display: inline-block;
+    margin-right: 10px;
+
+}
